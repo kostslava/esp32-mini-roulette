@@ -1,4 +1,4 @@
-# goober – mini roulette on an ESP32-C3
+#mini roulette on an ESP32-C3
 
 Pocket roulette game: 1.3" OLED + rotary encoder + 2 buttons. Screens follow the original sketch: main menu with wheel, bets table with chip wheel, curved spinning band, zoom-in result.
 
